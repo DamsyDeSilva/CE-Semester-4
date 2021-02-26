@@ -1,0 +1,14 @@
+E/16/069
+Answers
+
+1. N comparisons
+
+2. Number of operations to remove an element will change according to the number of elements in the set. Because in the remove method it should remove the first element of the set and has to copy the rest of the elemnts to the front.
+
+3. Adding elemnets to a sorted array will improve the performance because the number of elements to be compared will be reduced.
+
+4. Option 1
+	> Because it get rid of the corner cases at the begining of the code.
+	> it increases code readability.
+
+5.Add @SuppressWarnings("unchecked") annotation to get rid of -Xlint flag.

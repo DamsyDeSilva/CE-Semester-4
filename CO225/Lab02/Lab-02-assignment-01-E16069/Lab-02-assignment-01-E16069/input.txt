@@ -1,0 +1,6 @@
+Kasun,1.63,60
+Sunil,1.55,53
+Lahiru,1.44,67
+Anjali,1.42,65
+Sarath,1.72,49
+Vasundara,1.57,68

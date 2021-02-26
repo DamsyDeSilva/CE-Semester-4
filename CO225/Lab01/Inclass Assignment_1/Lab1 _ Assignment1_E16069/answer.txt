@@ -1,0 +1,7 @@
+attendance percentage of a student = (sum of attendace of the student)*100/45;
+
+average percentage of all the students (M) = (sum of all attendance of all students)*100/(45*61);
+
+For M to be exactly 50%, 
+sum of all attendance of all students = 1372.5
+Since the attendance couldn't be a fractional number : the percentage of all the students couldn't be 50%.

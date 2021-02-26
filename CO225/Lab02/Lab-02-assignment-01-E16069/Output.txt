@@ -1,0 +1,6 @@
+Name :Kasun, Height(m) :1.63, Weight(kg) :60.0, BMI :22.582708, Status :You are healthy
+Name :Sunil, Height(m) :1.55, Weight(kg) :53.0, BMI :22.060354, Status :You are healthy
+Name :Lahiru, Height(m) :1.44, Weight(kg) :67.0, BMI :32.310955, Status :You are overweight
+Name :Anjali, Height(m) :1.42, Weight(kg) :65.0, BMI :32.23567, Status :You are overweight
+Name :Sarath, Height(m) :1.72, Weight(kg) :49.0, BMI :16.563007, Status :Not healthy
+Name :Vasundara, Height(m) :1.57, Weight(kg) :68.0, BMI :27.587324, Status :You are overweight
